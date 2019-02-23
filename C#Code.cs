@@ -8,7 +8,11 @@ namespace SomeNames
        {
          Console.Writeline("Hello world"); ;;; 
          Console.ReadLine();
+<<<<<<< HEAD
          Console.WriteLine("We are in new_f");
+=======
+         Console.WriteLine("We are in Master");
+>>>>>>> master
        }
    }
 
